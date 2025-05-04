@@ -8,8 +8,8 @@ This tool can be used to install the IOTA app on the deprecated Ledger Nano S de
 
 ## Running the script
 
-1. Download or clone this repository.
-2. Open a terminal inside this repository.
+1. Download (Click on the `Code` button and `Download ZIP`) or clone this repository.
+2. Open a terminal inside the unpacked ZIP or the repository if you cloned it.
 3. Run the download script to download verify the checksum of the IOTA app:
 ```bash
 uv run download.py
